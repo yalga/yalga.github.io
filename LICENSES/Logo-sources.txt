@@ -1,0 +1,8 @@
+Tool logos: Devicon (https://github.com/devicons/devicon, MIT) and Simple Icons
+(https://github.com/simple-icons/simple-icons, CC0). Individual brand marks remain
+the property of their respective owners and identify technologies only.
+Twilio and Tableau marks use Simple Icons v11.15.0.
+AWS service tiles use the AWS brand mark; Vertex AI uses the Google Cloud mark.
+Nagios mark: https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg
+Manrope and Space Grotesk fonts are supplied under the SIL Open Font License;
+see the accompanying license files.
